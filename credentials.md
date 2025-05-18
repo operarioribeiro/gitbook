@@ -21,48 +21,27 @@ icon: shield-check
 
 ### Records Clearance
 
-**With No Crime, No Debt, and No Duty to Fulfill in Accordance to Public International Law (PIL)** he is open to any international background checks, such as the free online [BackgroundCheck.org](https://backgroundchecks.org/).
+**With No Crime, No Debt, and No Duty to Fulfill in Accordance to Public International Law (PIL)**, he is open to any international background checks, such as the free online [BackgroundCheck.org](https://backgroundchecks.org/).
+
+### **Ethical Pledges**
+
+**Commitment to Public International Law (PIL) Rule of Law (RoL)**, international law integration (ILI), and all open ethics principles compliant with them.
 
 ### **Capacity Tests**
 
-**Highly Functional Emergency Relief Leadership:** Hypersensitive Savant High Intelligence Quotient (IQ). Highly Sociable Excellent Emotional Quotient (EQ). Peace Forces Special Operations Cognitive Agility Trained (SOCAT).
+**Highly Functional Emergency Relief Leadership** with hypersensitive savant high intelligence quotient (IQ), highly sociable excellent emotional quotient (EQ), mental health psyche-social support (MHPSS) peace forces special operations cognitive agility training (SOCAT).
 
 ### Languages Proficiency
 
-**Common European Framework of Reference for Languages (CEFR) Certified Live Translator and Teacher** of Brazilian Portuguese Mother Tongue C2, English Lingua Franca Fluent C2, and Spanish Advanced C1. **Technical Exegesis Hermeneutics** in French, Latin, and Ancient Greek.
+**Common European Framework of Reference for Languages (CEFR) Certified Live Translator and Teacher** of Brazilian Portuguese mother tongue C2, English lingua franca fluent C2, and Spanish advanced C1. **Technical Exegesis Hermeneutics** in French, Latin, and Ancient Greek.
 
 ### School and Undergraduate Academic Record <a href="#academic-record" id="academic-record"></a>
 
-**1988.** Sacred Heart of Jesus Convent Pre-School. **1990.** Saint Dominic Primary School. **1996.** Social Service of Industry (SESI) Our Lady of Fatima Services Vocational School. **2000.** Paula Souza Centre (CPS) State Technical School (ETEC) with Gymnastics Formation at the Mounted Police Regiment of St. Expeditus. **2003.** State School Maximiliano Souza Technical High School. **2004.** University of the São Paulo People (UNIP) 5th Term Unfinished Psychology Baccal Laureate. **2024.** Catholic Pontifex University (PUC) of São Paulo, Paulus Faculty of Communication (FAPCOM), and Brazil Union of Universities (UniBF) Philosophy Educator Baccaulerate Undergraduation.
+**1988.** Saint Joseph Convent Pre-School. **1990.** Saint Dominic Primary School. **1996.** Social Service of Industry (SESI) Our Lady of Fatima Services Vocational School. **2000.** Technical Faculty of São Paulo (FATEC) Paula Souza Centre (CPS) State Technical School (ETEC) with Gymnastics Formation at the Mounted Police Regiment of Saint Expeditus. **2003.** Maximiliano Souza State School Normal High School. **2004.** University of the São Paulo People (UNIP) 5th Term Unfinished Psychology  Baccalaureate. **2024.** Catholic Pontifex University (PUC) of São Paulo Paulus Faculty of Communication (FAPCOM) Brazil Union of Universities (UniBF) Philosophy Educator Baccaulerate of Arts (B.A.) and Education (B.Ed.) Undergraduation.
 
 ### Graduate Specializations
 
-### Religious Ministry
-
-## Recognitions
-
-> _"May all glories be to God and may we be gratefully excellent in every thought, word, and deed to every goodwill goodfaith people in our paths for all we have accomplished. There is still too much work to be done and few people doing it."_
-
-### Study Scholarships
-
-**2021.12.** University of British Columbia Database of Religious History (DRH) Grant. **2023.06.** Unitarian Universalist Association (UUA) General Assembly (GA) Scholarship. **2023.09.** Liberal Religious Educators Association (LREDA) Religious Education Scholarship. **2024.04.** ReCivitas Institute Universal Basic Income International Diplomacy Scholarship. **2024.05.** Unitarian Universalist Ministers Association (UUMA) Ministry Days Scholarship. **2024.06.** Globethics & European Agency for Higher Education Accreditation (EAHEA) Future Ethics Badge. **2024.07.** Rights Conference (RightsCon) Scholarship. **2025.01.** European Union (EU) Academy Project Management Badge. **2025.05.** Religious Education Association (REA) Honorary Membership.
-
-### **Service Grants**
-
-**2018.09.** Parliament of World Religions (PoWR) Paul Carus Interfaith Excellence Award. **2022.10.** Unitarian Universalist Ministers Association (UUMA) Ministry Sustainability Grant. **2022.11.**  Atados Brazil NGOs Awards Transformative Volunteering Award. **2023.07.** Unitarian Universalist Service Committee (UUSC) Rev. Dr. Hope Johnson Ministry Award. **2024.07.** Unitarian Universalist Ministers Association (UUMA) Ministry Sustainability Grant. **2024.08.** First Freedom Foundation First Global Youth Summit for FoRB Fellowshi&#x70;**.**
-
-### Culture Awards
-
-**2001.09.** Electronic Arts Festival (FILE) Awards. **2003.10.** Iguatemi Dance Festival Award.\
-**2003.11.** Los Angeles Freewaves Festival Award. **2004.11.** Between Everyone Human Rights Movie Award. **2005.04.** Itaú Cultural Rumos Arts Awards. **2005.09.** National Art Foundation (FUNARTE) Awards. **2006.11.** Videobrasil Festival Award. **2007.12.** Studio for Electro Instrumental Music (STEIM) Award. **2008.11.** São Paulo Arts Critics Association (APCA) Awards. **2008.12.** Excursions Performance Art Award. **2009.06.** International Dance Festival (FID) Award. **2009.09.**&#x54;sonami Sound Art Awards. **2010.10.** PIPA Institute Visual Arts Award. **2011.06.** Bravo Magazine Awards. **2011.10.** Rolex Protegé Award. **2012.10.** Shell Theater Awards. **2014.02.** Berlin Landscape Films Festival Award. **2015.08.** British Culture Center Arts Awards. **2016.06.** Latin American New Movies Festival Award. **2017.06.** Tiradentes Free Eyes Movie Award. **2017.10.** Society of Arts, Religion, and Culture (ARC) Honorary Rubem Alves Theopoetics Award. **2024.04.** Pendle Hill Quaker Art Center Minnie Jane Quaker Art Ministry Awar&#x64;**.**
-
-## **Ethical Pledges**
-
-> _"I commit to the public international law (PIL) rule of law (RoL), international law integration (ILI), and all open ethics principles compliant with them."_
-
-## **Experience**
-
-> _"I have done all sorts of works in compliance with the rule of law to survive and that allowed me to cooperate with the most respected institutions in the fields of pacification, policymaking, emergency aid, economy, informatics, science, academic research, education, heritage safeguard, cultural diplomacy, ecomuseology, arts and crafts, interfaith cooperation, welfare chaplaincy, and sustainable development logistics."_
+### **Work Experience**
 
 <details>
 
@@ -88,20 +67,39 @@ Abaçaí, ABRAMUS & ECAD Copyrights Agencies, Abya Yala Movie Production, Academ
 
 </details>
 
->
+> _"I have done all sorts of works in compliance with the rule of law to survive and that allowed me to cooperate with the most respected institutions in the fields of pacification, policymaking, emergency aid, economy, informatics, science, academic research, education, heritage safeguard, cultural diplomacy, ecomuseology, arts and crafts, interfaith cooperation, welfare chaplaincy, and sustainable development logistics."_
+
+### Religious Ministry
+
+> _"May all glories be to God and may we be gratefully excellent in every thought, word, and deed to every goodwill goodfaith people in our paths for all we have accomplished. There is still too much work to be done and few people doing it."_
+
+## Recognitions
+
+### Study Scholarships
+
+**2021.12.** University of British Columbia Database of Religious History (DRH) Grant. **2023.06.** Unitarian Universalist Association (UUA) General Assembly (GA) Scholarship. **2023.09.** Liberal Religious Educators Association (LREDA) Religious Education Scholarship. **2024.04.** ReCivitas Institute Universal Basic Income International Diplomacy Scholarship. **2024.05.** Unitarian Universalist Ministers Association (UUMA) Ministry Days Scholarship. **2024.06.** Globethics & European Agency for Higher Education Accreditation (EAHEA) Future Ethics Badge. **2024.07.** Rights Conference (RightsCon) Scholarship. **2025.01.** European Union (EU) Academy Project Management Badge. **2025.05.** Religious Education Association (REA) Honorary Membership.
+
+### **Service Grants**
+
+**2018.09.** Parliament of World Religions (PoWR) Paul Carus Interfaith Excellence Award. **2022.10.** Unitarian Universalist Ministers Association (UUMA) Ministry Sustainability Grant. **2022.11.**  Atados Brazil NGOs Awards Transformative Volunteering Award. **2023.07.** Unitarian Universalist Service Committee (UUSC) Rev. Dr. Hope Johnson Ministry Award. **2024.07.** Unitarian Universalist Ministers Association (UUMA) Ministry Sustainability Grant. **2024.08.** First Freedom Foundation First Global Youth Summit for FoRB Fellowshi&#x70;**.**
+
+### Culture Awards
+
+**2001.09.** Electronic Arts Festival (FILE) Awards. **2003.10.** Iguatemi Dance Festival Award.\
+**2003.11.** Los Angeles Freewaves Festival Award. **2004.11.** Between Everyone Human Rights Movie Award. **2005.04.** Itaú Cultural Rumos Arts Awards. **2005.09.** National Art Foundation (FUNARTE) Awards. **2006.11.** Videobrasil Festival Award. **2007.12.** Studio for Electro Instrumental Music (STEIM) Award. **2008.11.** São Paulo Arts Critics Association (APCA) Awards. **2008.12.** Excursions Performance Art Award. **2009.06.** International Dance Festival (FID) Award. **2009.09.**&#x54;sonami Sound Art Awards. **2010.10.** PIPA Institute Visual Arts Award. **2011.06.** Bravo Magazine Awards. **2011.10.** Rolex Protegé Award. **2012.10.** Shell Theater Awards. **2014.02.** Berlin Landscape Films Festival Award. **2015.08.** British Culture Center Arts Awards. **2016.06.** Latin American New Movies Festival Award. **2017.06.** Tiradentes Free Eyes Movie Award. **2017.10.** Society of Arts, Religion, and Culture (ARC) Honorary Rubem Alves Theopoetics Award. **2024.04.** Pendle Hill Quaker Art Center Minnie Jane Quaker Art Ministry Awar&#x64;**.**
 
 ## Public Endorsement
 
-**Felipe Ribeiro Work was Endorsed by Nobel Prize Winners and United Nations High Commissioners** and you can check some public statements on his work on his [LinkedIn Profile Recommendations Page](https://www.linkedin.com/in/operarioribeiro/details/recommendations/?profileUrn=urn%3Ali%3Afsd_profile%3AACoAAAOEAjQB3o6xt4HAClJMekCbko3LRgHPF0g\&tabIndex=0\&detailScreenTabIndex=0) and [Facebook Recommendations Photos Album](https://www.facebook.com/media/set/?set=a.3580774908806923\&type=3).
+**Work with Nobel Prize Winners and United Nations High Commissioners** that you can see in many intimate photos in this website, specially in the [contacts](contacts.md) page. You can also check some public statements about his work on his [LinkedIn Profile Recommendations Page](https://www.linkedin.com/in/operarioribeiro/details/recommendations/?profileUrn=urn%3Ali%3Afsd_profile%3AACoAAAOEAjQB3o6xt4HAClJMekCbko3LRgHPF0g\&tabIndex=0\&detailScreenTabIndex=0) and [Facebook Recommendations Photos Album](https://www.facebook.com/media/set/?set=a.3580774908806923\&type=3). Don't forget to add your own contribution.
 
-> _"I consider those giving me their attention in my_  [_official website_](https://operarioribeiro.gitbook.io/) _already as supporters of my work. Thank you."_
+> _"I consider those giving me their attention in my_ [_website_](https://operarioribeiro.gitbook.io/) _already as supporters of my work. Truly thank you. And please let me know how we can assist your community"_
 
 ## Open Peer Review
 
 **Write about Felipe Ribeiro Methodology and Works** in individual endorsements, news reports, public interviews, press releases, academic peer-reviews, philosophical essays, and poetic literature. If it is in compliance with our editorial ethics we will publish you here. If you want to interview him, please enter in [contact](contacts.md). Also do follow his [RiseUp Newsletter](https://lists.riseup.net/www/info/operarioribeiro) to know about his future projects and [propose projects collaboration](contacts.md).
 
-| <p><a href="contacts.md"><strong>Contacts</strong></a><br>Proposals Interviews</p> | <p><a href="https://lists.riseup.net/www/info/operarioribeiro"><strong>RiseUp</strong></a><br>Agenda Newsletter</p> | <p><a href="broken-reference"><strong>Sponsor</strong></a><br>Collect, Buy, Donate</p> |
-| ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+| <p><a href="contacts.md"><strong>Contacts</strong></a><br>Proposals Interviews</p> | <p><a href="https://lists.riseup.net/www/info/operarioribeiro"><strong>RiseUp</strong></a><br>Agenda Newsletter</p> | <p><a href="sponsor.md"><strong>Sponsor</strong></a><br>Collect, Buy, Donate</p> |
+| ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
 
 ## Open License
 
