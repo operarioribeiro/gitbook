@@ -7,7 +7,7 @@ icon: book
 
 ## 𝑓 ℞
 
-**Felipe Ribeiro is an Internationally Respected Open Research Scholar Educator:** As you can see in his [profile](./), [biography](biography.md), [portfolio](portfolio.md), and [credentials](credentials.md) he has had the honor to study, teach, develop projects, and design policies in the most respected international education institutions in the fields of peace education, rule of law (RoL) education, humanitarian education, science education, heritage education, art education, diplomacy education, interfaith religious education, and ecological education.
+**Felipe Ribeiro is an Internationally Respected Open Research Scholar Educator:** As you can see in his [profile](broken-reference), [biography](biography.md), [portfolio](portfolio.md), and [credentials](credentials.md) he has had the honor to study, teach, develop projects, and design policies in the most respected international education institutions in the fields of peace education, rule of law (RoL) education, humanitarian education, science education, heritage education, art education, diplomacy education, interfaith religious education, and ecological education.
 
 [**Open Researcher and Contributor ID (ORCID) 0000-0003-1907-1880**](https://orcid.org/0000-0003-1907-1880)
 
