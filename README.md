@@ -39,12 +39,15 @@ icon: address-card
 
 ## Social Networks
 
-| <p><a href="https://archive.org/details/@operarioribeiro"><strong>Internet Archive</strong></a><br>Reports Files</p> | <p><a href="https://dataverse.harvard.edu/dataverse/operarioribeiro/"><strong>Harvard Dataverse</strong></a><br>Scholar Publications</p> | <p><a href="https://github.com/operarioribeiro"><strong>GitHub</strong></a><br>Projects Repositories</p>            |
+|                                                                                                                      | <p><strong>Platform as a Service (PaaS)</strong> </p><p>Felipe Ribeiro Use of Them</p>                                                   |                                                                                                                     |
 | -------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
+| <p><a href="https://archive.org/details/@operarioribeiro"><strong>Internet Archive</strong></a><br>Reports Files</p> | <p><a href="https://dataverse.harvard.edu/dataverse/operarioribeiro/"><strong>Harvard Dataverse</strong></a><br>Scholar Publications</p> | <p><a href="https://github.com/operarioribeiro"><strong>GitHub</strong></a><br>Projects Repositories</p>            |
 | <p><a href="https://orcid.org/0000-0003-1907-1880"><strong>ORCID</strong></a><br>Academic Resume</p>                 | <p><a href="https://united-nations.academia.edu/operarioribeiro"><strong>Academia.edu</strong></a><br>Essays Abstracts</p>               | <p><a href="https://linkedin.com/in/operarioribeiro"><strong>LinkedIn</strong></a><br>Professional Resume</p>       |
 | <p><a href="https://www.youtube.com/@operarioribeiro"><strong>YouTube</strong></a><br>Cinematic Videos</p>           | <p><a href="https://soundcloud.com/operarioribeiro"><strong>SoundCloud</strong></a><br>Opera Music</p>                                   | <p><a href="https://instagram.com/operarioribeiro"><strong>Instagram</strong></a><br>Art Photos</p>                 |
 | <p><a href="https://facebook.com/operarioribeiro"><strong>Facebook</strong></a><br>News Sharing Blog</p>             | <p><a href="https://cal.com/operarioribeiro"><strong>Cal.com</strong></a><br>Meeting Schedule</p>                                        | <p><a href="https://lists.riseup.net/www/info/operarioribeiro"><strong>RiseUp</strong></a><br>Agenda Newsletter</p> |
 | <p><a href="https://www.saatchiart.com/operarioribeiro"><strong>Saatchi Art</strong></a><br>Collectibles Gallery</p> | <p><a href="https://operarioribeiro-shop.fourthwall.com/"><strong>FourthWall Shop</strong></a><br>Fair Trade Market</p>                  | <p><a href="https://donorbox.org/operarioribeiro"><strong>DonorBox</strong></a><br>Direct Donation</p>              |
+
+
 
 > _"I have always developed my social networks as research engines and solutions sharing contemporary art works. That may explain why I have not much followers nor engagement but always creates solid partnerships that allow me to assist those in need through them."_
 
