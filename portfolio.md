@@ -5,9 +5,9 @@ icon: landmark
 
 # Portfolio
 
-## 𝑓 ℞
+## Heritage Ecomuseology
 
-**Felipe Ribeiro Oeuvre  Documentation** presented here is just a primer succinct synthesis of what expert critics have called "united beggars", "an interfaith landmark", "community top voice", "a grateful honor to the ancestors", "our time needs", and "civil arts". For a better coverage please visit his [LinkedIn Photo Albums](https://linkedin.com/in/operarioribeiro/recent-activity/images) and [Facebook Photo Albums](https://facebook.com/operarioribeiro/photos_albums) for photos, his [Soundcloud Radio](https://soundcloud.com/operarioribeiro) for compositions, or his [Harvard Dataverse Archive](https://dataverse.harvard.edu/dataverse/operarioribeiro) for publications. If you have any more in-depth inquiry, please contact us.
+**Felipe Ribeiro Oeuvre  Documentation** presented here, in compliance with the best library information science (LIS) archivological techniques, is just a primer succinct synthesis of what expert critics have called "united beggars", "an interfaith landmark", "community top voice", "a grateful honor to the ancestors", "our time needs", and "civil arts". For a better coverage please visit his [LinkedIn Photo Albums](https://linkedin.com/in/operarioribeiro/recent-activity/images) and [Facebook Photo Albums](https://facebook.com/operarioribeiro/photos_albums) for photos, his [Soundcloud Radio](https://soundcloud.com/operarioribeiro) for compositions, or his [Harvard Dataverse Archive](https://dataverse.harvard.edu/dataverse/operarioribeiro) for academic publications. If you have any more in-depth inquiry or materials to share with us, please enter in [contact](contacts.md).
 
 > _"Solidarity is the immersive multimedia fine art that blooms the historical importance of our whole civilization into our daily life."_
 
@@ -100,8 +100,8 @@ icon: landmark
 
 **Write about Felipe Ribeiro Methodology and Works** in individual endorsements, news reports, public interviews, press releases, academic peer-reviews, philosophical essays, and poetic literature. If it is in compliance with our editorial ethics we will publish you here. If you want to interview him, please enter in [contact](contacts.md). Also do follow his [RiseUp Newsletter](https://lists.riseup.net/www/info/operarioribeiro) to know about his future projects and [propose projects collaboration](contacts.md).
 
-| <p><a href="contacts.md"><strong>Contacts</strong></a><br>Proposals Interviews</p> | <p><a href="https://lists.riseup.net/www/info/operarioribeiro"><strong>RiseUp</strong></a><br>Agenda Newsletter</p> | <p><a href="broken-reference"><strong>Sponsor</strong></a><br>Collect, Buy, Donate</p> |
-| ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+| <p><a href="contacts.md"><strong>Contacts</strong></a><br>Proposals Interviews</p> | <p><a href="https://lists.riseup.net/www/info/operarioribeiro"><strong>RiseUp</strong></a><br>Agenda Newsletter</p> | <p><a href="sponsor.md"><strong>Sponsor</strong></a><br>Collect, Buy, Donate</p> |
+| ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
 
 ## Open License
 

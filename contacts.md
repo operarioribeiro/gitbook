@@ -5,7 +5,7 @@ icon: globe
 
 # Contacts
 
-## 𝑓 ℞
+## Collaborate
 
 **Proposing Collaborations:** Follow Felipe Ribeiro on his social networks and see the type of solutions he and his network of expert consultants offer and need. Then, if he can be of assistance for you to provide more benefits for the common good, write him a briefing paragraph of what you and your community need so that we may sync your calendars for a joyful meeting with some local community orchard's herbs tea. If we need any legal commitment we shall use public international law (PIL) rule of law (RoL) electronic contracts.
 

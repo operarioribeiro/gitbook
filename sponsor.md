@@ -5,17 +5,17 @@ icon: circle-euro
 
 # Sponsor
 
-### 𝑓 ℞ <a href="#undefined" id="undefined"></a>
+### Support Felipe Ribeiro <a href="#undefined" id="undefined"></a>
 
-**Help Felipe Ribeiro:** Follow, engage in, and share his [social networks](https://app.gitbook.com/o/kAifYT7UvZTR3TcXI9cO/s/ktdaIjKmsArSksdkQ9KG/contacts), propose paid partnerships with him, connect him to good opportunities on behalf of the common good, collect his artworks and publications, buy his merchandise; and become a donating sponsor.
+**Your Help is Truly Needed:** Follow, engage in, and share his [social networks](https://app.gitbook.com/o/kAifYT7UvZTR3TcXI9cO/s/ktdaIjKmsArSksdkQ9KG/contacts), propose paid partnerships with him, connect him to good opportunities on behalf of the common good, collect his artworks and publications, buy his merchandise; and become a donating sponsor.
 
 > _"I have never seen any economy without charity."_
 
 ### Open Market <a href="#open-market" id="open-market"></a>
 
-**Fair Labor Fair Trade Social Solidarity Economy (SSE) Developer:** In compliance to the best practices he has seen, assisting communities to create their own open economy marktplaces, Felipe Ribeiro has decided that every one of his collectibles can come with a [Saatchi Art](https://support.saatchiart.com/hc/en-us/articles/14707658658587-Certificate-of-Authenticity) certificate of authenticity and(or) a [Verisart](https://verisart.com) blockchain non-fungible token (NFT) certificate of provenance and transfer meanwhile all donations can receive a [NetCredential](https://netcredential.com) certificates of contribution and be made anonymously or nominally.
+**Buy Felipe Ribeiro Fair Labor Fair Trade Social Solidarity Economy (SSE) Products:** In compliance to the best practices he has seen, assisting communities to create their own open economy marktplaces, Felipe Ribeiro has decided that every one of his collectibles can come with a [Saatchi Art](https://support.saatchiart.com/hc/en-us/articles/14707658658587-Certificate-of-Authenticity) certificate of authenticity and(or) a [Verisart](https://verisart.com) blockchain non-fungible token (NFT) certificate of provenance and transfer meanwhile all donations can receive a [NetCredential](https://netcredential.com) certificates of contribution and be made anonymously or nominally.
 
-| Collect Artwork                                                             | Buy Fair Trade Responsibly                                            | Donate Directly                                               |
+| Collect Artwork                                                             | Buy Fairtrade Responsibly                                             | Donate Directly                                               |
 | --------------------------------------------------------------------------- | --------------------------------------------------------------------- | ------------------------------------------------------------- |
 | [**Saatchi Art Gallery**](https://www.saatchiart.com/en-br/operarioribeiro) | [**Fourthwall Market**](https://operarioribeiro-shop.fourthwall.com/) | [**DonorBox Campaign**](https://donorbox.org/operarioribeiro) |
 
