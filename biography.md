@@ -5,19 +5,19 @@ icon: diagram-sankey
 
 # Biography
 
-## 𝑓 ℞
+## Historiographical Remarks
 
-**Felipe Ribeiro Life History** has inspired poems, essays, and contemporary artworks worldwide. This succinct report was developed by a team of volunteers from all over the world in collaboration with his family, intimate friends, colleagues, and overall cooperators in the course of several years.&#x20;
+**Felipe Ribeiro Endeavors and Ventures** have inspired poems, essays, and artworks in many parts of the world. This succinct authorized [documentary](https://en.wikipedia.org/wiki/Documentary_film) [biography](https://en.wikipedia.org/wiki/Biography), taking into consideration the [docufiction](https://en.wikipedia.org/wiki/Docufiction) limits of [historiography](https://en.wikipedia.org/wiki/Historiography), is being developed mainly offline by volunteers from all over the world developing [biographical research](https://en.wikipedia.org/wiki/Biographical_research) in collaboration with his family, intimate friends, colleagues, and overall cooperators through the course of several years which explains the positive.&#x20;
 
-|                                                               |                                                                           |                                                                       |
-| ------------------------------------------------------------- | ------------------------------------------------------------------------- | --------------------------------------------------------------------- |
-| [**Interfaith Childhood**](biography.md#interfaith-childhood) | [**Solidarity Adolescence**](biography.md#solidarity-adolescence)         | [**Philosophy Baccalaureate**](biography.md#philosophy-baccalaureate) |
-| [**Cultural Development**](biography.md#cultural-development) | [**Religious Ministry**](biography.md#religious-ministry)                 | [**Peace Humanitarianism**](biography.md#peace-aid)                   |
-|                                                               | [**International Policymaking**](biography.md#international-policymaking) |                                                                       |
+|                                                                                                              |                                                                                                                          |                                                                                                                    |
+| ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------ |
+| <p><a href="biography.md#interfaith-childhood"><strong>Interfaith Diplomacy</strong></a><br>1980s to Now</p> | <p><a href="biography.md#solidarity-adolescence"><strong>Solidarity Aid</strong></a><br>1990s to Now</p>                 | <p><a href="biography.md#philosophy-baccalaureate"><strong>Philosophy Scholarship</strong></a><br>2000s to Now</p> |
+| <p><a href="biography.md#cultural-development"><strong>Cultural Development</strong></a><br>2000s to Now</p> | <p><a href="biography.md#religious-ministry"><strong>Religious Ministry</strong></a><br>2010s to Now</p>                 | <p><a href="biography.md#peace-aid"><strong>Peace Humanitarianism</strong></a><br>2010s to Now</p>                 |
+|                                                                                                              | <p><a href="biography.md#international-policymaking"><strong>International Policymaking</strong></a><br>2020s to Now</p> |                                                                                                                    |
 
 > _"I respect secular interfaith theology and peace studies as my birth, social security and charity care as my childhood, popular pedagogy and open source technologies as my adolescence, philosophy and psychology as my collegiate alma mater, culture and nature as my eternal connection to the gift of life, arts and crafts as my relation to our elders’ wisdom, diplomacy and development as my duty to future generations, law and science as the safeguards of my adulthood, solidarity economy and chaplaincy aid as my daily routine.”_
 
-## **Interfaith Childhood**
+## **Interfaith Diplomacy**
 
 ### **1983**
 
@@ -31,7 +31,7 @@ icon: diagram-sankey
 
 **Jesus' Freak, Community Servant, and Tree Astronaut:** Amidst several periods of extreme hunger and poverty and a continued struggle to survive bullying harassment throughout his life, this poor workers "operários" village elders-led communal environment was primordial in connecting him to vital knowledge and aid institutions that helped, not only in his sustenance amidst the recovery from the trauma of abuses and malnutrition, but also made him a daily prayer in the Church of the Rosary of Pompeii and Church of Our Lady of Fatima, a avid learner, and students orator. A later near-death experience of being pushed from a gymnasium stair led him to a profound mystical experience of the need to assist everyone. So he denied many offers to be a pop starlet and began helping house-building task-forces and to beg everyone he could to take him to whatever events of religiosity, science, education, and culture they would go to.
 
-## **Solidarity Adolescence**
+## **Solidarity Aid**
 
 ### **1997**
 
@@ -41,7 +41,7 @@ icon: diagram-sankey
 
 **Open Source Cultural Developer:** His collaborative internet researches led him to get to know and become a part of the open culture movements with whom he helped to develop some of our country's first maker spaces and fab labs, which later inspired the creation of the Cultural Ministry (MinC) 'Pontos de Cultura' and 'Cultura Viva' programmes, at the same time that supporting the Education Ministry (MinEd) massive use of open access and UNESCO Open Educational Resources (OER) from 2004 to 2014. At the same time he studied music, had a progressive rock band, and composed for other groups. Although always severely underpaid, he felt honored to co-organize and participate in numerous festivals and congresses since those days.
 
-## **Philosophy Baccalaureate**
+## **Philosophy Scholarship**
 
 ### **2001**
 
@@ -83,7 +83,7 @@ icon: diagram-sankey
 
 ### **2016**
 
-**Peace Culture Secular Interfaith Diplomacy: He** went through a decade of some of the most excellent courses and postgraduate seminars, forums, congresses, and summits so that he became acquainted with being a developer of inter-religious interfaith interconvictional agents creation programs amidst emergency situations along the academic community and participating in study groups, think tanks, and cathedras of the most renowned universities worldwide in the most varied range of research fields, with publications in traditional journals. Locally he led the Interfaith Front for Peace and Justice Dom Paulo Evaristo Arns and the Rio de Janeiro Inter-Religious Movement (MIR) using the techniques he co-developed with the Joint Learning Initiative on Faith and Local communities (JLIF\&LC) and OMNIA Interfaith Peacemaker, internationally he mapped the best free libre open source solutions (FLOSS) from nonprofits in a seminal database, yet to be published, meanwhile assisting the Religions for Peace (RfP) Interfaith Rainforest Initiative (IRI) and co-produced the United Religions Initiative (URI) World council meetings along many other organizations where he served as an expert consultant, board chairperson, and ambassador.
+**Peace Culture Secular Interfaith Diplomacy:** He went through a decade of some of the most excellent courses and postgraduate seminars, forums, congresses, and summits so that he became acquainted with being a developer of inter-religious interfaith interconvictional agents creation programs amidst emergency situations along the academic community and participating in study groups, think tanks, and cathedras of the most renowned universities worldwide in the most varied range of research fields, with publications in traditional journals. Locally he led the Interfaith Front for Peace and Justice Dom Paulo Evaristo Arns and the Rio de Janeiro Inter-Religious Movement (MIR) using the techniques he co-developed with the Joint Learning Initiative on Faith and Local communities (JLIF\&LC) and OMNIA Interfaith Peacemaker, internationally he mapped the best free libre open source solutions (FLOSS) from nonprofits in a seminal database, yet to be published, meanwhile assisting the Religions for Peace (RfP) Interfaith Rainforest Initiative (IRI) and co-produced the United Religions Initiative (URI) World council meetings along many other organizations where he served as an expert consultant, board chairperson, and ambassador.
 
 ### **2017**
 
