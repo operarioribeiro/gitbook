@@ -5,23 +5,23 @@ icon: shield-check
 
 # Credentials
 
-## 𝑓 ℞
+## Resume
 
 [**Open Researcher and Contributor ID (ORCID) 0000-0003-1907-1880**](https://orcid.org/0000-0003-1907-1880)
 
-> _"I am open to any sort of project coordination, personnel qualification, community teaching, heritage safeguard, cultural diplomacy, sustainable development  goals (SDGs) logistics, public international law (PIL) policymaking, multimedia art production, and expert consultancy in compliance with my principles of nonviolence, rule of law (RoL), and humanitarian aid social solidarity economy (SSE)."_
+**Felipe Ribeiro is a Respected International High Commissioners’ and Supreme Courts’ Amicus Curiae (A.C.) Expert Consultant Scholar** with a lifetime curriculum vitae with thousands of professional experiences. If more than this resume you need a full achievements track-record, please enter in [contact](contacts.md).
 
-## Resume <a href="#academic-record" id="academic-record"></a>
+> _"I am open to any sort of project in compliance with my principles of nonviolence, rule of law (RoL), and humanitarian aid social solidarity economy (SSE) that works on behalf of the common good with my experience in positions of coordination, personnel qualification, community teaching, heritage safeguard, cultural diplomacy, sustainable development  goals (SDGs) logistics, public international law (PIL) policymaking, multimedia art production, and expert consultancy."_
 
-> _"Synthesizing a one page resume from a lifetime curriculum vitae is a reflective meditation I suggest everyone looking for self-knowledge."_
+## Certificates
 
-## Certificates <a href="#academic-record" id="academic-record"></a>
+**Hundreds of Training Certificates** from the most respected international schools, universities, and organizations, which you can see in the [previous partners](credentials.md#previous-partners) section below, in the fields of nonviolent peacemaking, peace education, standards of care, rule of law (RoL) regulatory compliance, management, open governance, policymaking, humanitarian aid, mental health psycho-social support (MHPSS), social solidarity economy (SSE), open source science, open education, education in emergency (EiE), heritage safeguard, ecomuseology, ecocuratorship, cybernetics philosophy, cultural diplomacy, interfaith diplomacy, theology, theopoetics, arts education, justice equity diversity inclusion (JEDI), and sustainable development (SD) procurement logistics.&#x20;
 
-**Felipe Ribeiro Has More Than 220 Training Certificates** from the most respected international schools, universities, and organizations, which you can see in the [previous partners](credentials.md#previous-partners) section below, in the fields of nonviolent peacemaking, peace education, standards of care, rule of law (RoL) regulatory compliance, management, open governance, policymaking, humanitarian aid, mental health psycho-social support (MHPSS), social solidarity economy (SSE), open source science, open education, education in emergency (EiE), heritage safeguard, ecomuseology, ecocuratorship, cybernetics philosophy, cultural diplomacy, interfaith diplomacy, theology, theopoetics, arts education, justice equity diversity inclusion (JEDI), and sustainable development (SD) procurement logistics.&#x20;
+> _"I prefer studying than entertainment, so if you get to know of any free or low-cost respected certificate course opportunity, please let me know. I post about them as much as possible on my_ [_LinkedIn Activity Timeline_](https://linkedin.com/in/operarioribeiro/recent-activity/all) _and_ [_Facebook Posts Timeline_](https://facebook.com/operarioribeiro)_."_
 
-> _"I prefer studying than entertainment, so if you get to know of any free or low-cost respected certificate course opportunity, please let me know. I post as those in my way on my_ [_LinkedIn Activity Timeline_](https://linkedin.com/in/operarioribeiro/recent-activity/all) _and_ [_Facebook Posts Timeline_](https://facebook.com/operarioribeiro)_."_
+### Records Clearance
 
-### No Crime, No Debt, and No Duty Records Clearance <a href="#academic-record" id="academic-record"></a>
+**With No Crime, No Debt, and No Duty to Fulfill in Accordance to Public International Law (PIL)** he is open to any international background checks, such as the free online [BackgroundCheck.org](https://backgroundchecks.org/).
 
 ### **Capacity Tests**
 
