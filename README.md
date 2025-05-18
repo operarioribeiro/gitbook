@@ -5,7 +5,7 @@ icon: address-card
 
 # Profile
 
-## Felipe Ribeiro ( 𝑓 ℞)
+## Felipe Ribeiro
 
 **Felipe "Operário" Ribeiro** is an Ambassador of Peace (Amb.P.), [Peace Church](https://en.wikipedia.org/wiki/Peace_churches) Deacon (Dcn.) Justice of Peace (J.P.) Chaplain (Ch.) Reverend (Rev.) minister clerk, Royal Academic (R.A.) of open source arts and sciences, natural and cultural heritage safeguard Ranger (Rg.), secular interfaith cultural diplomacy solidarity developer, and contemporary opera multimedia artist who has collaborated with, and was awarded by, many of the most respected international institutions and networks, such as United Nations (UN) high commissariats, in projects that saved countless lives.
 

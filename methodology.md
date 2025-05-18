@@ -5,9 +5,9 @@ icon: book
 
 # Methodology
 
-## 𝑓 ℞
+## Open Source Science
 
-**Felipe Ribeiro is an Internationally Respected Open Research Scholar Educator:** As you can see in his [profile](broken-reference), [biography](biography.md), [portfolio](portfolio.md), and [credentials](credentials.md) he has had the honor to study, teach, develop projects, and design policies in the most respected international education institutions in the fields of peace education, rule of law (RoL) education, humanitarian education, science education, heritage education, art education, diplomacy education, interfaith religious education, and ecological education.
+**Felipe Ribeiro is an Internationally Respected Open Research Scholar Educator:** As you can see in his [profile](./), [biography](biography.md), [portfolio](portfolio.md), and [credentials](credentials.md) he has had the honor to study, teach, develop projects, and design policies in the most respected international education institutions in the fields of peace education, rule of law (RoL) education, humanitarian education, science education, heritage education, art education, diplomacy education, interfaith religious education, and ecological education. He works with [open science](https://en.wikipedia.org/wiki/Open_science) as his [scientific method](https://en.wikipedia.org/wiki/Scientific_method) using [free libre open source solutions (FLOSS)](https://en.wikipedia.org/wiki/Free_and_open-source_software) such as [Protocol.io](https://protocol.io/) and [Open Science Framework (OSF)](https://osf.io/).
 
 [**Open Researcher and Contributor ID (ORCID) 0000-0003-1907-1880**](https://orcid.org/0000-0003-1907-1880)
 
