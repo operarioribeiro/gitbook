@@ -77,8 +77,8 @@ icon: book
 
 **Write about Felipe Ribeiro Methodology and Works** in individual endorsements, news reports, public interviews, press releases, academic peer-reviews, philosophical essays, and poetic literature. If it is in compliance with our editorial ethics we will publish you here. If you want to interview him, please enter in [contact](contacts.md). Also do follow his [RiseUp Newsletter](https://lists.riseup.net/www/info/operarioribeiro) to know about his future projects and [propose projects collaboration](contacts.md).
 
-| <p><a href="contacts.md"><strong>Contacts</strong></a><br>Proposals Interviews</p> | <p><a href="https://lists.riseup.net/www/info/operarioribeiro"><strong>RiseUp</strong></a><br>Agenda Newsletter</p> | <p><a href="broken-reference"><strong>Sponsor</strong></a><br>Collect, Buy, Donate</p> |
-| ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+| <p><a href="contacts.md"><strong>Contacts</strong></a><br>Proposals Interviews</p> | <p><a href="https://lists.riseup.net/www/info/operarioribeiro"><strong>RiseUp</strong></a><br>Agenda Newsletter</p> | <p><a href="sponsor.md"><strong>Sponsor</strong></a><br>Collect, Buy, Donate</p> |
+| ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
 
 ## Open License
 
