@@ -15,9 +15,9 @@ icon: circle-euro
 
 **Fair Labor Fair Trade Social Solidarity Economy (SSE) Developer:** In compliance to the best practices he has seen, assisting communities to create their own open economy marktplaces, Felipe Ribeiro has decided that every one of his collectibles can come with a [Saatchi Art](https://support.saatchiart.com/hc/en-us/articles/14707658658587-Certificate-of-Authenticity) certificate of authenticity and(or) a [Verisart](https://verisart.com) blockchain non-fungible token (NFT) certificate of provenance and transfer meanwhile all donations can receive a [NetCredential](https://netcredential.com) certificates of contribution and be made anonymously or nominally.
 
-| Collect Artwork                                                             | Buy Fashion Responsibly                                            | Donate Directly                                               |
-| --------------------------------------------------------------------------- | ------------------------------------------------------------------ | ------------------------------------------------------------- |
-| [**Saatchi Art Gallery**](https://www.saatchiart.com/en-br/operarioribeiro) | [**Forthwall Market**](https://operarioribeiro-shop.forthwall.com) | [**DonorBox Campaign**](https://donorbox.org/operarioribeiro) |
+| Collect Artwork                                                             | Buy Fair Trade Responsibly                                            | Donate Directly                                               |
+| --------------------------------------------------------------------------- | --------------------------------------------------------------------- | ------------------------------------------------------------- |
+| [**Saatchi Art Gallery**](https://www.saatchiart.com/en-br/operarioribeiro) | [**Fourthwall Market**](https://operarioribeiro-shop.fourthwall.com/) | [**DonorBox Campaign**](https://donorbox.org/operarioribeiro) |
 
 > _"I have been an antislavery slave for most of my life and I have not found a better solution for this problem than social solidarity open economy fair trade."_
 
