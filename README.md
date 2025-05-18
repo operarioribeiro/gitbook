@@ -7,7 +7,7 @@ icon: address-card
 
 ## Felipe Ribeiro ( 𝑓 ℞)
 
-**Felipe "Operário" Ribeiro** is an Ambassador of Peace (Amb.P.), Deacon (Dcn.) Justice of Peace (J.P.) Chaplain (Ch.) Reverend (Rev.) minister clerk, Royal Academic (R.A.) of open source arts and sciences, natural and cultural heritage safeguard Ranger (Rg.), secular interfaith cultural diplomacy solidarity developer, and contemporary opera multimedia artist who has collaborated with, and was awarded by, many of the most respected international institutions and networks, such as United Nations (UN) high commissariats, in projects that saved countless lives.
+**Felipe "Operário" Ribeiro** is an Ambassador of Peace (Amb.P.), [Peace Church](https://en.wikipedia.org/wiki/Peace_churches) Deacon (Dcn.) Justice of Peace (J.P.) Chaplain (Ch.) Reverend (Rev.) minister clerk, Royal Academic (R.A.) of open source arts and sciences, natural and cultural heritage safeguard Ranger (Rg.), secular interfaith cultural diplomacy solidarity developer, and contemporary opera multimedia artist who has collaborated with, and was awarded by, many of the most respected international institutions and networks, such as United Nations (UN) high commissariats, in projects that saved countless lives.
 
 > _“I have always worked for peace out of gratitude because that virtue was the historical origin of the rule of law that allowed international community’s humanitarian aid institutions and agents to assist people like me and the ones I love to survive in the most harsh situations, educate ourselves, and also help."_
 
@@ -33,7 +33,7 @@ icon: address-card
 
 ## **Daily Routine**
 
-**Leading a Simple Life**, with the help of [Google Workspace](https://workspace.google.com/) and [Cal.com](https://cal.com/operarioribeiro), he follows a disciplined teetotal abstemious vegetarian plentiful day to day schedule of prayer, relations care, studies, organizing his local church, assisting organizations, diplomatic events, composing sacred music operas, developing ecomuseological exhibits, creating solidarity-inspired arts, and updating this website with the help of his  network of volunteers, mainly offline. He and his team only accept projects invitations and curatorial requests in compliance with the nonviolent rule of law (RoL) humanitarian principles of his [open methodology](methodology.md).
+**Leading a Simple Life**, with the help of [Google Workspace](https://workspace.google.com/) and [Cal.com](https://cal.com/operarioribeiro), he follows a disciplined teetotal abstemious vegetarian plentiful day to day schedule of prayer, relations care, studies, helping the Peace Church, assisting organizations, diplomatic events, composing sacred music operas, developing ecomuseological exhibits, creating solidarity-inspired arts, and updating this website with the help of his  network of volunteers, mainly offline. He and his team only accept projects invitations and curatorial requests in compliance with the nonviolent rule of law (RoL) humanitarian principles of his [open methodology](methodology.md).
 
 > _"A good sleep is my measurement of daily success."_
 
